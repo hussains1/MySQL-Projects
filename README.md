@@ -13,6 +13,21 @@
                 <li>Learning different types of SQL joins (self-join, right join, full join, inner join, cross join, left join)</li>
                 <li>Practical SQL exercises using the World Database</li>
             </ul>
+
+<section>
+      <h2><i class="fa-solid fa-image icon"></i>Examples of Queries Analysed (World DB)</h2>
+
+<div class="screenshot">
+        <h4><i class="fa-solid fa-table icon"></i> Capital Cities Population Comparison (JOINS)</h4>
+        <img src="MySQL-Screenshots/Capital Cities Population Comparison.png"/>
+      </div>
+
+<div class="screenshot">
+        <h4><i class="fa-solid fa-chart-column icon"></i> Count Cities Of USA (JOINS/GROUPBY)</h4>
+        <img src="MySQL-Screenshots/Count Cities of USA.png"/>
+      </div>
+
+            
 <h2>World DB Workbook for MySQL Projects</h2>
 
 <p>This project using  SQL scripts, was designed to work with the World Database, a sample database provided by MySQL. The scripts included in this are intended to help users explore and analyze various aspects of the World Database, which includes information about countries, cities, and their populations.</p>
@@ -36,6 +51,22 @@
   </li>
 </ul>
 
+<section>
+      <h2><i class="fa-solid fa-image icon"></i>World DB Workbook Query Examples</h2>
+
+<div class="screenshot">
+        <h4><i class="fa-solid fa-table icon"></i> Retrieving cities with names containing specific keywords</h4>
+        <img src="MySQL-Screenshots/New Year Promotion Featuring Cities with 'New'.png"/>
+      </div>
+
+<div class="screenshot">
+        <h4><i class="fa-solid fa-chart-column icon"></i> Count Cities Of USA (JOINS/GROUPBY)</h4>
+        <img src="MySQL-Screenshots/Count Cities of USA.png"/>
+      </div>
+<div class="screenshot">
+        <h4><i class="fa-solid fa-chart-column icon"></i> Table creation statements for City</h4>
+        <img src="MySQL-Screenshots/World DB City.png"/>
+      </div>
             
             
 <h3>Northwind Joins Exercise 1</h3>
@@ -43,12 +74,18 @@
             <ul>
                 <li>Finding the category of each product</li>
                 <li>Retrieving products in the meat/poultry category</li>
-                <li>Listing order details including order ID, order date, customer name, and employee name</li>
+                <li>Listing order details including order ID, order date, customer name, and employee name for all orders</li>
                 <li>Displaying product names, category names, and supplier names</li>
                 <li>Creating reports for orders from 1996</li>
                 <li>Counting products in each category</li>
                 <li>Listing products with their prices and quantities ordered</li>
             </ul>
+
+  
+<div class="screenshot">
+        <h4><i class="fa-solid fa-table icon"></i>Listing order details including order ID, order date, customer name, and employee name for all orders</h4>
+        <img src="MySQL-Screenshots/Retrieve the order ID, order date, customer name, and employee name for all orders.png"/>
+      </div>
             
 <h3>Northwind Joins Exercise 2</h3>
             <p>This project continues the exploration of SQL joins with additional exercises using the Northwind database. The tasks include:</p>
@@ -58,6 +95,11 @@
                 <li>Displaying products along with their category names</li>
                 <li>Listing products and their quantities for each order</li>
             </ul>
+
+<div class="screenshot">
+        <h4><i class="fa-solid fa-table icon"></i> Retrieving cities with names containing specific keywords</h4>
+        <img src="MySQL-Screenshots/Write a query to list the employees who handled each order, along with the order date.png"/>
+      </div>
             
 <h2>Tools Used</h2>
             <div class="icons">
